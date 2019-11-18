@@ -1,4 +1,4 @@
-# HST_583
+# Presurgical Mapping & Clinical decision-making
 
 The "Presurgical Mapping & Clinical decision-making" course is an introduction to post-processing methods for building patient-specific maps of the brain for surgical planning of brain tumor resection. The session is part of the [HST.583 Functional Magnetic Resonance Imaging: Data Acquisition and Analysis course](https://learning-modules.mit.edu/class/index.html?uuid=/course/9/fa19/9.583#info).
 
