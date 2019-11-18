@@ -3,7 +3,7 @@
 The "Presurgical Mapping & Clinical decision-making" course is an introduction to post-processing methods for building patient-specific maps of the brain for surgical planning of brain tumor resection. The session is part of the [HST.583 Functional Magnetic Resonance Imaging: Data Acquisition and Analysis course](https://learning-modules.mit.edu/class/index.html?uuid=/course/9/fa19/9.583#info).
 
 ## Course Faculty
-- Sonia Pujol, PhD, Director of 3D Slicer Training & Education <br> Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
+Sonia Pujol, PhD, Director of 3D Slicer Training & Education <br> Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
 
 ## Course Materials
 Participants are invited to install the 3D Slicer software and datasets in preparation for the hands-on sessions.
