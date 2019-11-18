@@ -6,11 +6,13 @@ The "Presurgical Mapping & Clinical decision-making" course is an introduction t
 Sonia Pujol, PhD, Director of 3D Slicer Training & Education <br> Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
 
 ## Course Materials
-Participants are invited to install the 3D Slicer software and datasets in preparation for the hands-on sessions.
+Participants are required to install the 3D Slicer software, Slicer DMRI extension and course datasets in preparation for the hands-on sessions.
 
 ### Software
 Please download the latest version of 3D Slicer: 
 [Slicer 4.10.2 Stable Release Version rev. 28257](https://download.slicer.org/)
+
+Please install the [SlicerDMR extension](https://www.dropbox.com/s/p5t62u47sufssac/SlicerDMRIExtension_Installation_spujol.pdf?dl=0)
 
 ### Tutorial Datasets
 Please download and unzip the following files:
