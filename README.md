@@ -14,6 +14,7 @@ Please download the latest version of 3D Slicer:
 
 ### Tutorial Datasets
 Please download and unzip the following files:
+
 [Dataset #1: Diffusion MRI](https://www.dropbox.com/s/p41hlvssjpa48in/WhiteMatterExplorationData.zip?dl=1)
 
 [Dataset #2: Brain Mapping](https://www.dropbox.com/s/xyux3pjbzvmibog/WhiteMatterExplorationData.zip?dl=1)
